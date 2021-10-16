@@ -1,1 +1,1 @@
-# all.assets Kelibo Store
+# all.assets
