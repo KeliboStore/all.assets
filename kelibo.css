@@ -14,20 +14,6 @@
     background-size: cover;
 }
 
-#bg-kibo {
-    width: 100%;
-    height: 100%;
-    display: block;
-    margin: auto;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: url(https://rawcdn.githack.com/KeliboStore/all.image/c998a82e1c6f49240ac7b2b542d4fa3d83d3d176/bg-Valir.mp4) no-repeat fixed center;
-    background-size: cover;
-}
-
 .kelibo {
     font-family: Teko, sans-serif;  
     width: 100%;
